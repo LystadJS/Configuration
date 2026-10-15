@@ -1,0 +1,80 @@
+{
+  "workbench.settings.applyToAllProfiles": [
+    "workbench.colorTheme",
+    "window.autoDetectColorScheme",
+    "workbench.colorCustomizations",
+    "editor.tokenColorCustomizations",
+    "editor.fontFamily",
+    "editor.fontSize",
+    "editor.lineHeight",
+    "editor.fontLigatures",
+    "editor.minimap.enabled",
+    "editor.wordWrap",
+    "editor.rulers",
+    "[r]",
+    "[quarto]",
+    "jslResearchRail.airPath",
+    "jslResearchRail.rscriptPath",
+    "jslResearchRail.strictAssignments",
+    "jslResearchRail.expandCalls"
+  ],
+  "workbench.colorTheme": "Dark Modern",
+  "window.autoDetectColorScheme": false,
+  "workbench.secondarySideBar.defaultVisibility": "visible",
+  "editor.fontFamily": "'IBM Plex Mono', Consolas, monospace",
+  "editor.fontSize": 15,
+  "editor.lineHeight": 24,
+  "editor.fontLigatures": false,
+  "editor.minimap.enabled": false,
+  "editor.stickyScroll.enabled": false,
+  "editor.wordWrap": "off",
+  "editor.rulers": [
+    88
+  ],
+  "editor.renderWhitespace": "selection",
+  "terminal.integrated.fontFamily": "'IBM Plex Mono', Consolas, monospace",
+  "workbench.colorCustomizations": {
+    "editor.background": "#070709",
+    "editor.foreground": "#EEE5D9",
+    "editor.lineHighlightBackground": "#17111B",
+    "editor.selectionBackground": "#65457E66",
+    "editorCursor.foreground": "#BF3152",
+    "editorLineNumber.foreground": "#766D77",
+    "editorLineNumber.activeForeground": "#C8BCC7",
+    "editorIndentGuide.background1": "#312632",
+    "editorIndentGuide.activeBackground1": "#4A3547",
+    "editorRuler.foreground": "#312632",
+    "sideBar.background": "#0D0B10",
+    "sideBar.foreground": "#C8BCC7",
+    "activityBar.background": "#0D0B10",
+    "panel.background": "#0D0B10",
+    "panel.border": "#312632",
+    "statusBar.background": "#120E15",
+    "statusBar.foreground": "#C8BCC7",
+    "titleBar.activeBackground": "#070709",
+    "tab.activeBackground": "#120E15",
+    "tab.inactiveBackground": "#0D0B10",
+    "tab.activeBorderTop": "#8D1732",
+    "focusBorder": "#8D1732"
+  },
+  "editor.tokenColorCustomizations": {
+    "comments": "#918493",
+    "strings": "#9EAA8E",
+    "numbers": "#91A8BB",
+    "keywords": "#9270AC",
+    "functions": "#C8BCC7",
+    "types": "#91A8BB"
+  },
+  "[r]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "jsl-local.jsl-research-rail"
+  },
+  "[quarto]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "quarto.quarto"
+  },
+  "jslResearchRail.airPath": "auto",
+  "jslResearchRail.rscriptPath": "auto",
+  "jslResearchRail.strictAssignments": true,
+  "jslResearchRail.expandCalls": true
+}
